@@ -102,7 +102,7 @@ Si los conceptos mencionados no quedaron claros, recomiendo ver el siguiente [**
 Acto o proceso de derivar conclusiones lógicas a partir de [premisas](#Premisa.) que se conoce o asumen como ciertas. ([mas info](https://concepto.de/inferencia/))
 
 #### Premisa
-**[Proposiciones](https://concepto.de/proposicion/) iniciales de un [argumento](https://concepto.de/argumento/)**, a partir de las cuales es posible llegar a una conclusión. ([mas info]((https://concepto.de/premisa/))
+**[Proposiciones](https://concepto.de/proposicion/) iniciales de un [argumento](https://concepto.de/argumento/)**, a partir de las cuales es posible llegar a una conclusión. ([mas info](https://concepto.de/premisa/))
 
 (Estas definiciones de profundizaran en [***Tipos de razonamiento***]())
 
