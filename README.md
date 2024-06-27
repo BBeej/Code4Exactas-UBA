@@ -33,6 +33,7 @@ Esta sección proporciona información sobre el contenido actual del repositorio
 ### En desarrollo activo:
 - 🔧 Estructura general del repositorio
 - 📚 Contenido para el CBC (Ciclo Básico Común)
+	- IPC
 
 ### Próximas áreas de enfoque:
 - 🔍 Recursos generales para ingresantes
@@ -44,7 +45,7 @@ Esta sección proporciona información sobre el contenido actual del repositorio
 - [ ] Materias Optativas
 - [x] Recursos Extra
 
-Última actualización: [15/06/24]
+Última actualización: [27/06/24]
 
 ---
 
