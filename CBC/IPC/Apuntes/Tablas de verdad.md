@@ -16,6 +16,7 @@ En esta estructura base, tenemos dos proposiciones (***A*** y ***B***). Pueden s
 | V   | F   |   {X}   |
 | F   | V   |   {X}   |
 | F   | F   |   {X}   |
+
 **No olvidar lo fundamental para todas las tablas!**
 - Patrón de la primera **columna** (***A***): **[VVFF]**
 - Patrón de la segunda **columna** (***B***): **[VFVF]**
@@ -64,6 +65,7 @@ El formato será: {Conector Lógico} seguido de sus notaciones populares -> (N1)
 | V   | F   |   F   |
 | F   | V   |   F   |
 | F   | F   |   V   |
+
 **Nota**: Este conector lógico no tiene una representación reservada en los lenguajes de programación, ya que su lógica es tan simple como hacer: `A == B` o `p == q`
 
 **Negación o Complemento Lógico (NOT), ("~" o "-"), ( ! ), ( ¬ )**:
