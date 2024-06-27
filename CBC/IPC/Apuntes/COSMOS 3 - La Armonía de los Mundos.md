@@ -1,4 +1,4 @@
-# Información del apunte
+# Información de apunte
 
 Este documento consta de dos análisis sobre: [**Cosmos (T1.E3 - 1980) La Armonía de los Mundos**](https://www.youtube.com/watch?v=UKVikiVqA70), donde el astrónomo [Carl Sagan](https://es.wikipedia.org/wiki/Carl_Sagan) nos conduce en una atractiva visita guiada por los distintos elementos y teorías cosmológicas del universo.
 
@@ -46,15 +46,15 @@ En resumen, Carl Sagan cubre diversos aspectos fundamentales del Pensamiento Cie
 
 ### Definiciones.
 
-##### Pléyades
+#### Pléyades
 _Cúmulo estelar abierto situado en la constelación de Tauro, a 444 años luz de la Tierra._
-##### Nebulosa del Cangrejo
+#### Nebulosa del Cangrejo
 _Resto de supernova de tipo plerión resultante de la explosión de una supernova en el año 1054_
-##### Conocimiento Tácito
+#### Conocimiento Tácito
 _Sabiduría y experiencia adquirida a lo largo de la vida, que no se puede explicar o comunicar de manera explícita._
-##### Pseudociencia
+#### Pseudociencia
 _Afirmaciones no científicas presentadas erróneamente como científicas_
-##### Concepciones Ptolemaicas
+#### Concepciones Ptolemaicas
 _[Sistema astronómico](https://es.wikipedia.org/wiki/Teor%C3%ADa_geoc%C3%A9ntrica) desarrollado por [Claudio Ptolomeo](https://es.wikipedia.org/wiki/Claudio_Ptolomeo)_
 
 [BBeej/Code4Exactas-UBA](https://github.com/BBeej/Code4Exactas-UBA)
