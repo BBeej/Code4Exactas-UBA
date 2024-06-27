@@ -90,6 +90,7 @@ Para incluir la negación en nuestra tabla de verdad, agregamos una columna para
 Patrones normales como vimos previamente:
 - Patrón de la primera **columna** (***A***): **[VVFF]**
 - Patrón de la segunda **columna** (***B***): **[VFVF]**
+
 Patrones invertidos para Negación:
 - Patrón de la tercera **columna** (¬***A***): **[FFVV]**
 - Patrón de la cuarta **columna** (¬***B***): **[FVFV]**
