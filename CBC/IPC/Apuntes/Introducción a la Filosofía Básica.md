@@ -48,7 +48,7 @@ Hempel y Popper, como representantes del enfoque clásico, aportan métodos para
 
 Este apunte es solo una introducción a los temas mencionados. Si algunos conceptos no quedaron claros, en los próximos apuntes se profundizarán para una mejor comprensión.
 
-#### Siguiente apunte ****[El lenguaje lógico](El%20lenguaje%20lógico.md)***
+#### Siguiente apunte ***[El lenguaje lógico](El%20lenguaje%20lógico.md)***
 
 ### Definiciones
 
