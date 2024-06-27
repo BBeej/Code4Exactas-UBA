@@ -27,6 +27,7 @@ A continuación todas las tablas de verdad según sus respectivos conectores ló
 El formato será: {Conector Lógico} seguido de sus notaciones populares -> (N1), (N2), ("N3" o "N4"), (N...): [Tabla de verdad]
 
 **Conjunción: ("Y" o "AND"),  ("&" o "&&"), ( . ), (∧)**:
+
 (***A*** ∧ ***B***) es verdadera solo si tanto ***A*** como ***B*** son verdaderas.
 
 | A   | B   | A ∧ B |
@@ -37,6 +38,7 @@ El formato será: {Conector Lógico} seguido de sus notaciones populares -> (N1)
 | F   | F   |   F   |
 
 **Disyunción ("O" u "OR"), (" | " o "||"), (+), (∨)**:
+
 (***A*** ∨ ***B***) es verdadera si al menos una de las proposiciones ***A*** o ***B*** es verdadera.
 
 | A   | B   | A ∨ B |
@@ -47,6 +49,7 @@ El formato será: {Conector Lógico} seguido de sus notaciones populares -> (N1)
 | F   | F   |   F   |
 
 **Condicional, Implicación o 'Si...entonces' ("→" o "=>")**:
+
 (***A*** → ***B***) es falsa solo si ***A*** es verdadera y ***B*** es falsa; en cualquier otro caso es verdadera.
 
 | A   | B   | A → B |
@@ -57,6 +60,7 @@ El formato será: {Conector Lógico} seguido de sus notaciones populares -> (N1)
 | F   | F   |   V   |
 
 **Bicondicional o 'si y solo si' ("<=>" o "↔")**:
+
 (***A*** ↔ ***B***) es verdadera si ***A*** y ***B*** tienen el mismo valor de verdad.
 
 | A   | B   | A ↔ B |
@@ -69,6 +73,7 @@ El formato será: {Conector Lógico} seguido de sus notaciones populares -> (N1)
 **Nota**: Este conector lógico no tiene una representación reservada en los lenguajes de programación, ya que su lógica es tan simple como hacer: `A == B` o `p == q`
 
 **Negación o Complemento Lógico (NOT), ("~" o "-"), ( ! ), ( ¬ )**:
+
 Este operador invierte el valor de verdad de una proposición. Si la proposición es verdadera, su negación es falsa y viceversa.
 
 | A   | ¬A  |
